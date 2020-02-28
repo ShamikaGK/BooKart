@@ -20,3 +20,22 @@
 	margin-left: 100px;
 	margin-top: 15px;
 }
+
+#bookListWr {
+	width: 100%;
+	padding: 100px;
+}
+
+#bookListWr input {
+	width: 25%;
+}
+
+#bookListWr .book {
+	border: 1px solid gray;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+#bookListWr .book .book-details {
+	margin-left: 160px;
+}
